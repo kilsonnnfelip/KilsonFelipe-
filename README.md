@@ -5,7 +5,7 @@ Descrição
 - 👷‍💡 Ac. em Engenharia Elétrica  
 - Entusiasta em Machine learning
 <div align="center">
-  <a href="https://github.com/bea-trizx">
+  <a href="https://github.com/kilsonFelipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bea-trizx&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bea-trizx&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
